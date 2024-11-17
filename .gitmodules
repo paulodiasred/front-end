@@ -1,0 +1,6 @@
+[submodule "submodulos/projeto-attack-on-titan"]
+	path = submodulos/projeto-attack-on-titan
+	url = https://github.com/paulodiasred/projeto-site-attackontitan.git
+[submodule "submodulos/projeto-ecommerce"]
+	path = submodulos/projeto-ecommerce
+	url = https://github.com/paulodiasred/ecommerce-project.git
